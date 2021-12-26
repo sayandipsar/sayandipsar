@@ -58,9 +58,7 @@
 </div>  
 
 
-<tr>
-  ##
-<tr>
+##
 <div align="center">
 <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='26' height='17'></a>
 </div>
