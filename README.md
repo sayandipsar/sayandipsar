@@ -23,11 +23,11 @@
 
 
 
-
+<div align="center">
 
 [![GitHub Game of Life](https://github4life.herokuapp.com/souravdinda.gif?z=6)](https://github4life.herokuapp.com/souravdinda)
 
-
+</div>
 
 
 
