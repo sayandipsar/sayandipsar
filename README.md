@@ -1,8 +1,10 @@
 ### Hello there, 👋 I am Sayan
 
-
-[<img src='https://github.com/sayandipsar/sayandipsar/blob/Master/Photo.jpeg' alt='github' height='150'>](https://github.com/https://github.com/sayandipsar)
-
+##
+<!-- [<img src='https://github.com/sayandipsar/sayandipsar/blob/Master/Photo.jpeg' alt='github' height='150'>](https://github.com/https://github.com/sayandipsar) -->
+## About Myself
+I am honest and hardworking in educational life, polite and punctual in personal life. I try
+to gather knowledge and enhance my technical skills in my daily life.
 
 ##
 
