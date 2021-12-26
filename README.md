@@ -1,7 +1,7 @@
 ### Hello there, 👋 I am Sayan
 
 
-[<img src='https://github.com/sayandipsar/sayandipsar/blob/Master/Photo.jpeg' alt='github' height='50'>](https://github.com/https://github.com/sayandipsar)
+[<img src='https://github.com/sayandipsar/sayandipsar/blob/Master/Photo.jpeg' alt='github' height='150'>](https://github.com/https://github.com/sayandipsar)
 
 
 <hr>
