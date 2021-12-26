@@ -4,7 +4,7 @@
 <!-- [<img src='https://github.com/sayandipsar/sayandipsar/blob/Master/Photo.jpeg' alt='github' height='150'>](https://github.com/https://github.com/sayandipsar) -->
 
 ### 
-<img align='right' src='https://github.com/sayandipsar/sayandipsar/blob/Master/About%20Myself.svg' width='300"'>
+<img align='right' src='https://github.com/sayandipsar/sayandipsar/blob/Master/About%20Myself.svg' width='330"'>
 
 ##
 
