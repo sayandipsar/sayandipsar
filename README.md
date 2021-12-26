@@ -22,14 +22,20 @@ to gather knowledge and enhance my technical skills in my daily life.
 ##
 
 
+###
+
+<b>My GitHub contributions as a Game of Life</b>
+
+[![GitHub Game of Life](https://github4life.herokuapp.com/souravdinda.gif?z=6)](https://github4life.herokuapp.com/souravdinda)
+
+##
 
 
-
-<div align="center">
+<!-- <div align="center">
 <b>My GitHub contributions as a Game of Life</b>
 [![GitHub Game of Life](https://github4life.herokuapp.com/souravdinda.gif?z=6)](https://github4life.herokuapp.com/souravdinda)
 
-</div>
+</div> -->
 
 
 
