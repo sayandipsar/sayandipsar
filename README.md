@@ -5,7 +5,7 @@
 
 ### About Myself  
 <img align='left' src='https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif' width='250"'>
-As we all know that under <b>engineering</b>, technical skills always provide unique gratitude and passion for any technical guy. So these technical skills of the engineer always help him, in the same way at all the time, Just as <b>Yodhya</b> protects his life from his enemies using the weapons and scriptures in a war. I am also an engineer, so I too should have such weapons and scriptures, so I  have some technical skills too,  which are the following but I am also in a learning state and learning many tools and technologies under the World Record Holder <b>Mr. Vimal Daga</b> in the one of the best training Program <b>ARTH THE SCHOOL OF TECHNOLOGIES</b> of <b> Linux World informatics Pvt Ltd </b>.</br>
+I am honest and hardworking in educational life, polite and punctual in personal life. I try to gather knowledge and enhance my technical skills in my daily life.
 
 
 
