@@ -4,6 +4,7 @@
 
 
 
+<hr>
 
 
 <!-- My Statistics  -->
@@ -13,12 +14,12 @@
 <!-- My Statistics  -->
 
 
+<hr>
 
 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='25'>](https://github.com/https://github.com/sayandipsar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='25'>](https://www.linkedin.com/in/https://www.linkedin.com/in/sayandip-sar//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='25'>](https://www.facebook.com/https://www.facebook.com/sayandip.sar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='25'>](https://www.instagram.com/https://www.instagram.com/sayandip.sar//)  
 
-<hr>
 
 <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='26' height='17'></a>
