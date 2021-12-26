@@ -11,8 +11,15 @@
 ### About Myself
 I am honest and hardworking in educational life, polite and punctual in personal life. I try
 to gather knowledge and enhance my technical skills in my daily life.
+### Objective
+I am a fresher in the corporate culture, but ready to accept the challenges, utilizing my
+technical skills, would like to work in highly esteemed company which gives me a
+platform to use my expertise and skills for mutual growth and benefit of company and
+myself.
 
 ##
+
+
 
 
 
