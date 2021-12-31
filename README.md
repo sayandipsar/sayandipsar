@@ -1,4 +1,4 @@
-### Hello there, 👋 I am Sayan
+### Hi, 👋 I am Sayan
 <!-- https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif -->
 
 <!-- [<img src='https://github.com/sayandipsar/sayandipsar/blob/Master/Photo.jpeg' alt='github' height='150'>](https://github.com/https://github.com/sayandipsar) -->
